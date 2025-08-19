@@ -1,12 +1,22 @@
-# C and C++ Practice Codes
+# C and C++ Practice Programs  
 
-This repository contains my practice programs in C and C++. Topics covered:
-- Number conversions
-- Loops and conditions
-- Arrays and functions
-- Recursion
+![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.png)  
+![C++ Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.png)  
 
-## How to Run
-Use any C compiler like GCC:
-# c-and-cpp-programm
-here is mine c and c++ programme practice
+This repository contains my practice codes in **C** and **C++**.  
+The programs cover fundamental concepts such as:  
+
+- 🔢 Number conversions  
+- 🔁 Loops and conditions  
+- 📊 Arrays and functions  
+- 🔂 Recursion  
+
+---
+
+## 🚀 How to Run  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/c-and-cpp-programm.git
+
+
